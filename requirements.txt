@@ -1,1 +1,4 @@
-fastapi[all]
+streamlit
+pandas
+pymongo
+python-dotenv
